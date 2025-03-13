@@ -57,7 +57,7 @@ section {
 
 
 .botao-inicio {
-    background-color: var(--laranja-claro);
+    background-color: var(--laranja-claro);000279
     border-radius: 30px;
     border: none;
     width: 14em;
@@ -78,7 +78,7 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/instrumentos.png') top right no-repeat,
+    background: url('img/instrumentos.png') top righ000279t no-repeat,
         url('img/pandeiro.jpeg') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
@@ -102,7 +102,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #000279;
+    background-color: #000000;
 
 }
 
